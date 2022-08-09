@@ -1,6 +1,4 @@
-<h1 align="center">
-  <img alt="Coffee Delivery" title="Coffee Delivery" src="./src/assets/logocoffeedelivery.svg" />
-</h1>
+<h1 align="center">GFN Challenge</h1>
 
 <p align="center">
   Está é uma aplicação ajuda no controle de faturamento de lojas, exibindo as lojas e seus faturamentos, além de exibir suas localizações no mapa, através das coordenadas.
