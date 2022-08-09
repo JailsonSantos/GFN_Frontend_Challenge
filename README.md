@@ -68,7 +68,7 @@ destaque deve ser aplicado durante a digitação do texto. O valor default desse
 
 <h2 align="left" id="link-online">Versão Online</h2>
 
-- [Lins-Coffee-Delivery](https://gfn-frontend-challenge.vercel.app/)
+- [GFN-FrontEnd-Challenge](https://gfn-frontend-challenge.vercel.app/)
 
 <h2 align="left" id="autor">🦸 Autor</h2>
 <a href="https://github.com/JailsonSantos">
