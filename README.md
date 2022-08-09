@@ -18,7 +18,7 @@
 </p>
 
 <h2 align="center" id="sobre">Sobre</h2>
-<p align="justify">  Está é uma aplicação ajudar a ter um controle sobre o faturamento das lojas, são exibidos uma lista com todas as lojas cadastradas, faturamento em vermelho quando o faturamento fica abaixo do valor minimo ex: R$ 15.000,00, essas alteração sáo refletidas no mapa através das coordenadas de latidade e longitude, nome da loja e faturamento.</p>
+<p align="justify">Esta é uma aplicação que auxilia no monitoramento sobre o faturamento das lojas, são exibidos uma lista com todas as lojas cadastradas, faturamento em vermelho quando o faturamento fica abaixo do valor minimo ex: R$ 15.000,00, essas alteração são refletidas no mapa através das coordenadas de latidade e longitude, nome da loja e faturamento.</p>
 
 <h3 align="left" id="funcionalidades">Funcionalidades</h3>
 
